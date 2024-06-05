@@ -24,19 +24,19 @@ And now, I'm:<br>
 You can reach me out here:<br>
 
   <a href= "https://instagram.com/alesantos.dev">
-    <img src="https://img.icons8.com/ios-glyphs/256/0cd0cd/instagram-new.svg" width="28px"/>
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)" width="32px"/>
   </a>
   &emsp;
   <a href="https://linkedin.com/in/alessandrasantoss">
-    <img src="https://img.icons8.com/ios-filled/256/0cd0cd/linkedin.svg" width="28px"/>
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="32px"/>
   </a>
   &emsp;
   <a href="https://www.youtube.com/channel/UC3rU2a5u_XPup2M3vOjUjkg">
-    <img src="https://img.icons8.com/ios-filled/256/0cd0cd/youtube.svg" width="28px"/>
+    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="32px"/>
   </a>
   &emsp;
   <a href="https://www.flowcode.com/page/alesantos">
-    <img src="https://img.icons8.com/material/256/0cd0cd/globe--v1.png" width="28px"/>
+    <img src="https://img.icons8.com/material/256/0cd0cd/globe--v1.png" width="32px"/>
   </a>
   &emsp;
  <br><br>
