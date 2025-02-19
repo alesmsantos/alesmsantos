@@ -3,7 +3,7 @@
 🔄 I made a hard - but great - decision and changed my career: from business to tech.<br>
 
 And now, I'm:<br>
-👩🏻‍💻 Front End Developer Jr. <br>
+👩🏻‍💻 Front End Developer <br>
 🚀 Creator at @alesantos.dev <br>
 🌍 Based in Recife, Brazil<br><br>
 
@@ -35,7 +35,7 @@ You can reach me out here:<br>
     <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="32px"/>
   </a>
   &emsp;
-  <a href="https://www.flowcode.com/page/alesantos">
+  <a href="https://www.alesantos.dev.br">
     <img src="https://img.icons8.com/material/256/0cd0cd/globe--v1.png" width="32px"/>
   </a>
   &emsp;
